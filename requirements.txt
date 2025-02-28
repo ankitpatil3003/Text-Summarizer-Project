@@ -12,6 +12,7 @@ matplotlib
 torch==1.10.0+cu102
 torchvision==0.11.1+cu102
 torchaudio===0.10.0+cu102
+evaluate
 notebook
 boto3
 mypy-boto3-s3
